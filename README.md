@@ -16,9 +16,11 @@ Informatics teacher at Rahimov School · Flutter & React developer · Software D
 
 <div align="center">
 
-| 👦 **~280** | 🏫 **13** | 🧑‍💻 **10** | 📅 **Daily** |
+| 👦 **279** | ✅ **40,408** | ⏱️ **743 h** | 🧑‍💻 **10** |
 |:---:|:---:|:---:|:---:|
-| pupils using Compiland | classes I teach, grades 5–9 | student projects in our first hackathon | Compiland releases since Sept 2026 |
+| active pupils on Compiland | lessons completed | spent learning on the platform | student projects in our first hackathon |
+
+<sub>Compiland numbers as of November 2026</sub>
 
 </div>
 
@@ -27,25 +29,41 @@ Informatics teacher at Rahimov School · Flutter & React developer · Software D
 ## Why I do this
 
 I started teaching Frontend on YouTube while I was still in high school, because explaining code was how I learned it best.
-Now I teach informatics to grades 5–9, and I keep running into the same problem: most learning tools weren't made for *our* kids, *our* classrooms, or *our* reality.
+Now I teach informatics to grades 5–9, and I keep running into the same problem: most learning tools weren't made for *our* kids, *our* classrooms, or *our* language.
 
 So I build the tools myself. I write the code at night, my pupils test it the next morning, and I fix whatever confused them by the end of the week.
 That loop of **teach, watch, build, repeat** is how everything below was made.
 
 ---
 
-## 🏙️ Compiland, my main project
+## 🏙️ Compiland: learn the computer by playing
 
-<!-- Replace with a real screenshot or a short GIF of a pupil using Compiland: this is the most valuable image on your profile -->
-<!-- <img src="./assets/compiland-preview.gif" width="100%" alt="Compiland in action" /> -->
+<a href="https://compiland.uz">
+  <img src="./assets/compiland-city.png" width="100%" alt="The Compiland city map: six districts (PC, Ctrl, Internet, Office, AI, Web), each a block of lesson buildings" />
+</a>
 
-**[compiland.uz](https://compiland.uz)**: a coding-learning platform for kids, guided by its mascot **Compi**.
+**[compiland.uz](https://compiland.uz)** is a city where school kids learn computers and programming, in Uzbek.
+Pupils don't watch videos; they **learn by doing**, district by district, guided by the mascot **Compi**. Teachers see every pupil's progress.
 
-- Designed, built and maintained by me, and tested **every day** in my own lessons
-- Used by **~280 pupils** in grades 5–9 at Rahimov School
-- Next up: younger grades (1–4) and more schools
+| # | District | What pupils learn |
+|:-:|---|---|
+| 1 | **PC** | Windows, files, notes: computer basics |
+| 2 | **Ctrl** | Keyboard shortcuts and fluency |
+| 3 | **Internet** | The web, search, staying safe online |
+| 4 | **Office** | Word, Excel, PowerPoint |
+| 5 | **AI** | Asking good questions and checking the answers |
+| 6 | **Web** | HTML, CSS, JavaScript |
 
-[Website](https://compiland.uz) · [Telegram](https://t.me/compiland_uz) · [YouTube](https://www.youtube.com/@Compiland_uz) · [Instagram](https://instagram.com/compiland.uz)
+**My role:** I designed, built and maintain it on my own, and I've shipped improvements **daily since September 2026**, tested live in my own lessons.
+**Next:** younger grades (1–4) and more schools.
+
+<details>
+<summary>📸 See the landing page</summary>
+<br/>
+<img src="./assets/compiland-landing.png" width="100%" alt="Compiland landing page: 'Kompyuterni o'ynab o'rganing' (Learn the computer by playing)" />
+</details>
+
+[Website](https://compiland.uz) · [Telegram](https://t.me/compiland_uz) · [YouTube](https://www.youtube.com/@Compiland_uz) · [Instagram](https://instagram.com/compiland.uz) · 🔒 *source code is private*
 
 ---
 
@@ -70,7 +88,7 @@ High school   Taught Frontend on YouTube
 2025          Biznex POS: installed and supported a POS system at real client businesses
 2025          Invited to teach informatics at Rahimov School
 2026          Launched rahimovdevs.tech and the school hackathon program
-2026          Building Compiland
+2026          Built and launched Compiland: 279 active pupils
 ```
 
 ---
