@@ -1,6 +1,6 @@
-<div align="center">
+<a href="https://compiland.uz"><img src="./assets/header.svg" width="100%" alt="Isfandiyor Madaminov, creator of Compiland" /></a>
 
-# Isfandiyor Madaminov
+<div align="center">
 
 **I build software for the classroom I teach in.**
 
