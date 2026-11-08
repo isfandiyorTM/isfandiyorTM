@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://isfandiyormadaminov.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=600&lines=Flutter+%26+React+developer+%F0%9F%93%B1;Informatics+teacher+at+Rahimov+School+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB;Turning+5th+graders+into+builders+%F0%9F%9A%80;CS+student+%40+PDP+University+%F0%9F%8E%93" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=600&lines=Flutter+%26+React+developer+%F0%9F%93%B1;Informatics+teacher+at+Rahimov+School+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB;Building+Compiland+%E2%80%94+coding+for+kids+%F0%9F%8F%99%EF%B8%8F;Turning+5th+graders+into+builders+%F0%9F%9A%80;CS+student+%40+PDP+University+%F0%9F%8E%93" alt="Typing intro" />
 </a>
 
 <br/>
@@ -27,6 +27,31 @@ I build apps — and I teach kids how to build them.
 - 📺 Started teaching Frontend on **YouTube** while I was still in high school
 - 🏪 Shipped **Biznex POS** into real businesses — on-site installs, client support, the unglamorous part of software
 - 🤖 Build fast with **AI-assisted workflows** (Claude Code) — and review every line that ships
+
+---
+
+### 🚀 Building: Compiland
+
+<table>
+<tr>
+<td>
+
+#### 🏙️ [Compiland](https://compiland.uz) — learn to code with Compi
+A coding-learning platform for kids, built from inside a real classroom.
+I design it, build it, and test it daily with my own pupils, then ship fixes the same week.
+
+- 👦 **~280 pupils** (grades 5–9) use it at Rahimov School
+- 🔁 Built and iterated **every day since September 2026**
+- 🎯 Next up: younger grades (1–4) and more schools
+
+[![Website](https://img.shields.io/badge/compiland.uz-4FC3F7?style=flat-square&logo=googlechrome&logoColor=white)](https://compiland.uz)
+[![Telegram](https://img.shields.io/badge/@compiland__uz-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/compiland_uz)
+[![YouTube](https://img.shields.io/badge/@Compiland__uz-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Compiland_uz)
+[![Instagram](https://img.shields.io/badge/@compiland.uz-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/compiland.uz)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -91,9 +116,9 @@ final isfandiyor = Developer(
   location:  'Tashkent, Uzbekistan 🇺🇿',
   teaching:  'Informatics, grades 5–9 @ Rahimov School',
   studying:  'Software Development @ PDP University',
-  building:  ['rahimovdevs.tech', 'school hackathon platform'],
+  building:  ['Compiland 🏙️', 'rahimovdevs.tech', 'school hackathon platform'],
   learning:  ['System design', 'Testing in Flutter'],
-  askMeAbout: ['Flutter', 'React', 'teaching kids to code'],
+  askMeAbout: ['Compiland', 'Flutter', 'React', 'teaching kids to code'],
 );
 ```
 
