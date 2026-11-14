@@ -1,4 +1,4 @@
-<a href="https://compiland.uz"><img src="./assets/header.svg?v=3" width="100%" alt="Isfandiyor Madaminov, creator of Compiland" /></a>
+<a href="https://compiland.uz"><img src="./assets/header.svg?v=4" width="100%" alt="Isfandiyor Madaminov, creator of Compiland" /></a>
 
 <div align="center">
 
@@ -16,11 +16,11 @@ Informatics teacher at Rahimov School · Flutter & React developer · Software D
 
 <div align="center">
 
-| 👦 **279** | ✅ **40,408** | ⏱️ **743 h** | 🧑‍💻 **10** |
+| 👦 **368** | ✅ **44,325** | ⏱️ **910 h** | 📈 **+51%** |
 |:---:|:---:|:---:|:---:|
-| active pupils on Compiland | lessons completed | spent learning on the platform | student projects in our first hackathon |
+| active pupils on Compiland<br/><sub>89% of enrolled students</sub> | lessons completed | spent learning | more active pupils<br/><sub>vs the previous 30 days</sub> |
 
-<sub>Compiland numbers as of November 2026</sub>
+<sub>Compiland analytics, last 30 days (16 Oct – 14 Nov 2026)</sub>
 
 </div>
 
@@ -42,7 +42,7 @@ That loop of **teach, watch, build, repeat** is how everything below was made.
   <img src="./assets/compiland-city.png" width="100%" alt="The Compiland city map: six districts (PC, Ctrl, Internet, Office, AI, Web), each a block of lesson buildings" />
 </a>
 
-**[compiland.uz](https://compiland.uz)** is a city where school kids learn computers and programming, in Uzbek.
+**[compiland.uz](https://compiland.uz)** is used by **2 schools, 4 branches**. It's a city where school kids learn computers and programming, in Uzbek.
 Pupils don't watch videos; they **learn by doing**, district by district, guided by the mascot **Compi**. Teachers see every pupil's progress.
 
 | # | District | What pupils learn |
@@ -53,6 +53,15 @@ Pupils don't watch videos; they **learn by doing**, district by district, guided
 | 4 | **Office** | Word, Excel, PowerPoint |
 | 5 | **AI** | Asking good questions and checking the answers |
 | 6 | **Web** | HTML, CSS, JavaScript |
+
+**Do kids actually like it?** The data says yes:
+- 🏠 **35% of visits happen on days with no lesson.** Kids come back on their own.
+- 🔁 **39%** are still active in their 4th week after getting an account
+- ⏱️ **~28 minutes** per visit, most of it (64%) spent in lessons
+- 🏫 Used in **4 school branches** across **2 schools**: Rahimov School (3 branches) and Renessans School
+
+<img src="./assets/compiland-analytics.png" width="100%" alt="Compiland teacher analytics: active students, time on site, lessons finished, daily activity chart and highlights" />
+<p align="center"><sub>The teacher analytics dashboard. Every pupil's progress is visible in one place.</sub></p>
 
 **My role:** I designed, built and maintain it on my own, and I've shipped improvements **daily since September 2026**, tested live in my own lessons.
 **Next:** younger grades (1–4) and more schools.
@@ -88,7 +97,7 @@ High school   Taught Frontend on YouTube
 2025          Biznex POS: installed and supported a POS system at real client businesses
 2025          Invited to teach informatics at Rahimov School
 2026          Launched rahimovdevs.tech and the school hackathon program
-2026          Built and launched Compiland: 279 active pupils
+2026          Built and launched Compiland: 4 school branches, 368 active pupils in 2 months
 ```
 
 ---
